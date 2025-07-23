@@ -33,9 +33,8 @@ Bu proje, Python programlama dili ile SQLite veritabanı kullanarak temel SQL so
    git clone https://github.com/kullanici-adin/sqlite-practice.git
    cd sqlite-practice
 3.Projeyi çalıştırın:
+```bash
    python main.py
-  Gereksinimler
-Python 3.x
-Herhangi bir ekstra kütüphane gerekmez (sqlite3 modülü Python ile birlikte gelir)
+  
 
 
