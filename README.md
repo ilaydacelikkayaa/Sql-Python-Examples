@@ -38,7 +38,4 @@ Bu proje, Python programlama dili ile SQLite veritabanı kullanarak temel SQL so
 Python 3.x
 Herhangi bir ekstra kütüphane gerekmez (sqlite3 modülü Python ile birlikte gelir)
 
-📁 Dosya Yapısı
-├── main.py         # Tüm işlemlerin yapıldığı ana Python dosyası
-├── students.db     # Çalıştırıldığında oluşturulan veritabanı dosyası
-└── README.md       # Proje açıklaması
+
